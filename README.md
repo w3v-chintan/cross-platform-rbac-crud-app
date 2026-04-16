@@ -59,36 +59,25 @@ This app includes authentication, role-based dashboards (Admin/Manager/User), pe
 - **Firebase CLI** (for functions deploy): `npx firebase ...`
 - **EAS CLI** (optional builds): `npx eas ...`
 
-## Step 1: Create the folder
+##Screenshorts
 
-Create a screenshots folder:
+Add your screenshots inside the following folder:
 
-```bash
-mkdir -p assets/images
-```
+<pre> ```bash assets/images/ ``` </pre>
 
-## Step 2: Add images Path
+##Image Files
 
-Add screenshots to `assets/images/` and update the links below:
+Make sure you include these images:
 
-- Splash
-  - `assets/images/splash.png`
-- Signup
-  - `assets/images/signup.png`
-- Signin
-  - `assets/images/signin.png`
-- Admin Dashboard (permissions)
-  - `assets/images/admin_dashboard.png`
-- Manager Dashboard
-  - `assets/images/manager_dashboard.png`
-- User Dashboard
-  - `assets/images/user_dashboard.png`
-- Profile
-  - `assets/images/profile.png`
+- splash.png
+- signup.png
+- signin.png
+- admin_dashboard.png
+- manager_dashboard.png
+- user_dashboard.png
+- profile.png
 
-## Add screenshots to the README
-
-Once the images are added, embed them like this:
+##App Preview
 
 <img src="assets/images/splash.png" width="250" />
 <img src="assets/images/signup.png" width="250" />
