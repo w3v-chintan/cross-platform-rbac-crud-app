@@ -17,16 +17,13 @@ This app includes authentication, role-based dashboards (Admin/Manager/User), pe
 - [Tech Stack](#tech-stack)
 - [Tools](#tools)
 - [Screenshots](#screenshots)
-- [Step 1: Create the folder](#step-1-create-the-folder)
-- [Step 2: Add images](#step-2-add-images)
-- [Add screenshots to the README](#add-screenshots-to-the-readme)
+- [Image Files](#image-files)
+- [App Preview](#ap_preview)
 - [Installation](#installation)
 - [Environment Variables](#environment-variables)
 - [Folder Structure](#folder-structure)
 - [Roles & Permissions](#roles--permissions)
-- [APK / Demo](#apk--demo)
 - [Contribution](#contribution)
-- [License](#license)
 - [Author](#author)
 
 ## Features
