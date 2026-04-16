@@ -63,6 +63,8 @@ This app includes authentication, role-based dashboards (Admin/Manager/User), pe
 
 Add screenshots to `assets/images/` and update the links below.
 
+- icon
+  - `icon.png`
 - Splash
   - `assets/images/splash.png`
 - Signup
@@ -90,7 +92,7 @@ mkdir -p assets/images
 
 Save your screenshots in:
 
-
+- `icon.png`
 - `assets/images/splash.png`
 - `assets/images/signup.png`
 - `assets/images/signin.png`
@@ -102,6 +104,10 @@ Save your screenshots in:
 ## Add screenshots to the README
 
 Once the images are added, embed them like this:
+
+```md
+![Icon Screen](icon.png)
+```
 
 ```md
 ![Splash Screen](assets/images/splash.png)
@@ -180,8 +186,6 @@ Then load them from `process.env.EXPO_PUBLIC_...` in `firebaseConfig.js`.
 
 ## Folder Structure
 
-High-level structure:
-
 ```text
 systemApp/
   app/
@@ -246,10 +250,6 @@ Contributions are welcome.
 - Create a feature branch: `git checkout -b feature/my-change`
 - Commit changes
 - Open a Pull Request
-
-## License
-
-Add your license here (for example, **MIT**) or remove this section if not applicable.
 
 ## Author
 
