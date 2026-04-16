@@ -17,9 +17,9 @@ This app includes authentication, role-based dashboards (Admin/Manager/User), pe
 - [Tech Stack](#tech-stack)
 - [Tools](#tools)
 - [Screenshots](#screenshots)
-- [Step 1: Folder banao](#step-1-folder-banao)
-- [Step 2: Images add karo](#step-2-images-add-karo)
-- [README me add karo](#readme-me-add-karo)
+- [Step 1: Create the folder](#step-1-create-the-folder)
+- [Step 2: Add images](#step-2-add-images)
+- [Add screenshots to the README](#add-screenshots-to-the-readme)
 - [Installation](#installation)
 - [Environment Variables](#environment-variables)
 - [Folder Structure](#folder-structure)
@@ -61,7 +61,7 @@ This app includes authentication, role-based dashboards (Admin/Manager/User), pe
 
 ## Screenshots
 
-Add screenshots in `assets/screenshots/` and update the links below.
+Add screenshots to `assets/screenshots/` and update the links below.
 
 - Login
   - `assets/screenshots/login.png`
@@ -74,7 +74,7 @@ Add screenshots in `assets/screenshots/` and update the links below.
 - Profile
   - `assets/screenshots/profile.png`
 
-## Step 1: Folder banao
+## Step 1: Create the folder
 
 Create a screenshots folder:
 
@@ -82,9 +82,9 @@ Create a screenshots folder:
 mkdir -p assets/screenshots
 ```
 
-## Step 2: Images add karo
+## Step 2: Add images
 
-Put your images in:
+Save your screenshots in:
 
 - `assets/screenshots/login.png`
 - `assets/screenshots/signup.png`
@@ -92,12 +92,12 @@ Put your images in:
 - `assets/screenshots/manager-dashboard.png`
 - `assets/screenshots/profile.png`
 
-## README me add karo
+## Add screenshots to the README
 
-Once images are added, you can embed them like this:
+Once the images are added, embed them like this:
 
 ```md
-![Login](assets/screenshots/login.png)
+![Login Screen](assets/screenshots/login.png)
 ```
 
 ## Installation
@@ -216,9 +216,13 @@ Contributions are welcome.
 - Commit changes
 - Open a Pull Request
 
+## License
+
+Add your license here (for example, **MIT**) or remove this section if not applicable.
+
 ## Author
 
 - **Name**: Chintan Barodia
 - **Email**: chintanb.we3vision@gmail.com
-- **LinkedIn**: (https://in.linkedin.com/in/chintan-barodia-8a6484261?trk=people_directory)
+- **LinkedIn**: `https://in.linkedin.com/in/chintan-barodia-8a6484261?trk=people_directory`
 - **Project**: `systemApp — Template 3D Connections`
