@@ -61,43 +61,74 @@ This app includes authentication, role-based dashboards (Admin/Manager/User), pe
 
 ## Screenshots
 
-Add screenshots to `assets/screenshots/` and update the links below.
+Add screenshots to `assets/images/` and update the links below.
 
-- Login
-  - `assets/screenshots/login.png`
+- Splash
+  - `assets/images/splash.png`
 - Signup
-  - `assets/screenshots/signup.png`
+  - `assets/images/signup.png`
+- Signin
+  - `assets/images/signin.png`
 - Admin Dashboard (permissions)
-  - `assets/screenshots/admin-dashboard.png`
+  - `assets/images/admin_dashboard.png`
 - Manager Dashboard
-  - `assets/screenshots/manager-dashboard.png`
+  - `assets/images/manager_dashboard.png`
+- User Dashboard
+  - `assets/images/user_dashboard.png`
 - Profile
-  - `assets/screenshots/profile.png`
+  - `assets/images/profile.png`
 
 ## Step 1: Create the folder
 
 Create a screenshots folder:
 
 ```bash
-mkdir -p assets/screenshots
+mkdir -p assets/images
 ```
 
 ## Step 2: Add images
 
 Save your screenshots in:
 
-- `assets/screenshots/login.png`
-- `assets/screenshots/signup.png`
-- `assets/screenshots/admin-dashboard.png`
-- `assets/screenshots/manager-dashboard.png`
-- `assets/screenshots/profile.png`
+
+- `assets/images/splash.png`
+- `assets/images/signup.png`
+- `assets/images/signin.png`
+- `assets/images/admin_dashboard.png`
+- `assets/images/manager_dashboard.png`
+- `assets/images/user_dashboard.png`
+- `assets/images/profile.png`
 
 ## Add screenshots to the README
 
 Once the images are added, embed them like this:
 
 ```md
-![Login Screen](assets/screenshots/login.png)
+![Splash Screen](assets/images/splash.png)
+```
+
+```md
+![Splash Screen](assets/images/signup.png)
+```
+
+```md
+![Splash Screen](assets/images/signin.png)
+```
+
+```md
+![Splash Screen](assets/images/admin_dashboard.png)
+```
+
+```md
+![Splash Screen](assets/images/manager_dashboard.png)
+```
+
+```md
+![Splash Screen](assets/images/user_dashboard.png)
+```
+
+```md
+![Profile Screen](assets/images/profile.png)
 ```
 
 ## Installation
