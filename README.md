@@ -59,9 +59,17 @@ This app includes authentication, role-based dashboards (Admin/Manager/User), pe
 - **Firebase CLI** (for functions deploy): `npx firebase ...`
 - **EAS CLI** (optional builds): `npx eas ...`
 
-## Screenshots
+## Step 1: Create the folder
 
-Add screenshots to `assets/images/` and update the links below.
+Create a screenshots folder:
+
+```bash
+mkdir -p assets/images
+```
+
+## Step 2: Add images Path
+
+Add screenshots to `assets/images/` and update the links below:
 
 - Splash
   - `assets/images/splash.png`
@@ -77,26 +85,6 @@ Add screenshots to `assets/images/` and update the links below.
   - `assets/images/user_dashboard.png`
 - Profile
   - `assets/images/profile.png`
-
-## Step 1: Create the folder
-
-Create a screenshots folder:
-
-```bash
-mkdir -p assets/images
-```
-
-## Step 2: Add images
-
-Save your screenshots in:
-
-- `assets/images/splash.png`
-- `assets/images/signup.png`
-- `assets/images/signin.png`
-- `assets/images/admin_dashboard.png`
-- `assets/images/manager_dashboard.png`
-- `assets/images/user_dashboard.png`
-- `assets/images/profile.png`
 
 ## Add screenshots to the README
 
@@ -209,11 +197,6 @@ Common fields:
 - `permissions`: object keyed by “screen id” (e.g. `User1`, `User2`, ...)
   - `{ view: boolean, add: boolean, update: boolean, delete: boolean }`
 - `canUpdateCredentials`: boolean
-
-## APK / Demo
-
-- **APK**: Add your APK link here (example: GitHub Releases or Google Drive)
-- **Demo video**: Add your demo video link here (YouTube/Drive)
 
 ## Contribution
 
