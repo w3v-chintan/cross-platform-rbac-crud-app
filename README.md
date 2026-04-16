@@ -63,8 +63,6 @@ This app includes authentication, role-based dashboards (Admin/Manager/User), pe
 
 Add screenshots to `assets/images/` and update the links below.
 
-- icon
-  - `icon.png`
 - Splash
   - `assets/images/splash.png`
 - Signup
@@ -92,7 +90,6 @@ mkdir -p assets/images
 
 Save your screenshots in:
 
-- `icon.png`
 - `assets/images/splash.png`
 - `assets/images/signup.png`
 - `assets/images/signin.png`
@@ -104,8 +101,6 @@ Save your screenshots in:
 ## Add screenshots to the README
 
 Once the images are added, embed them like this:
-
-![Icon Screen](icon.png)
 
 ![Splash Screen](assets/images/splash.png)
 
