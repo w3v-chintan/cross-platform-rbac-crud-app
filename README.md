@@ -102,19 +102,13 @@ Save your screenshots in:
 
 Once the images are added, embed them like this:
 
-![Splash Screen](assets/images/splash.png)
-
-![Splash Screen](assets/images/signup.png)
-
-![Splash Screen](assets/images/signin.png)
-
-![Splash Screen](assets/images/admin_dashboard.png)
-
-![Splash Screen](assets/images/manager_dashboard.png)
-
-![Splash Screen](assets/images/user_dashboard.png)
-
-![Profile Screen](assets/images/profile.png)
+<img src="assets/images/splash.png" width="250" />
+<img src="assets/images/signup.png" width="250" />
+<img src="assets/images/signin.png" width="250" />
+<img src="assets/images/admin_dashboard.png" width="250" />
+<img src="assets/images/manager_dashboard.png" width="250" />
+<img src="assets/images/user_dashboard.png" width="250" />
+<img src="assets/images/profile.png" width="250" />
 
 ## Installation
 
