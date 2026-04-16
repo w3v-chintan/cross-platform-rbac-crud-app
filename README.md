@@ -60,7 +60,7 @@ This app includes authentication, role-based dashboards (Admin/Manager/User), pe
 
 Add your screenshots inside the following folder:
 
-<pre> ```bash assets/images/ ``` </pre>
+<pre> assets/images/ </pre>
 
 ##Image Files
 
